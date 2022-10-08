@@ -5,7 +5,10 @@ Author 1: Owen Smith
 
 Author 2: Lloyd Na
 
-Run: java GameViewer
+To Run Game:
+- Download GnT.zip
+- Use terminal to navigate to folder
+- type: java GameViewer
 
 Aim of game is to trap the AI controlled tigers by moving your goats. 
 - Start the game by placing your 12 tigers on intersection points of lines on the map.
