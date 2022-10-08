@@ -8,7 +8,6 @@ Author 2: Lloyd Na
 To Run Game:
 - Download GnT.zip
 - Use terminal to navigate to folder
-- Type: make
 - Type: 'java GameViewer'
 
 Aim of game is to trap the AI controlled tigers by moving your goats. 
