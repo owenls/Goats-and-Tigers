@@ -1,6 +1,8 @@
 # Goats-and-Tigers
 Goats and Tigers Board Game 
 
+![](demo.gif)
+
 Author 1: Owen Smith
 
 Author 2: Lloyd Na
