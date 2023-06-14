@@ -1,7 +1,7 @@
 # Goats-and-Tigers
 Goats and Tigers Board Game 
 
-Demo GIF:
+Demo GIF (may take a minute to load if you see nothing): 
 ![](demo.gif)
 (Screen recording warps the dimensions)
 
