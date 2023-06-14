@@ -1,7 +1,9 @@
 # Goats-and-Tigers
 Goats and Tigers Board Game 
 
+Demo GIF:
 ![](demo.gif)
+(Screen recording warps the dimensions)
 
 Author 1: Owen Smith
 
